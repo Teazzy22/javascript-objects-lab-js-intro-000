@@ -1,2 +1,2 @@
-var updateObjectWithKeyAndVale = {}
-var updateObjectWithKeyAndVale = new recipes({object:'ball', key:'skeloton', value:'22'});
+var recipes = {}          //creating object
+var recipes = new updateObjectWithKeyAndVale({object:'ball', key:'skeloton', value:'22'});
