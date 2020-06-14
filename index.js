@@ -1,2 +1,2 @@
-var recipes = {object:'', key:'', value:''}
+var recipes = {}
 var recipes = updateObjectWithKeyAndVale({object:'', key:'', value:''});
